@@ -53,7 +53,8 @@ You can view a live demo of the project here: \[Your Live Demo Link] (if hosted)
 ## Screenshots
 
 **Homepage Screenshot:**
-c:\Users\Home PC\Downloads\_C__Users_Home%20PC_Desktop_Sahil_SWD_Netflix-Clone-Project_index.html.png
+![Uploading website.png…]()
+
 
 ## Future Plans
 
